@@ -44,7 +44,7 @@ The AI logic is handled by `stockfish.js`, a port of the Stockfish chess engine.
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/Chess_Ai.git
+   git clone https://github.com/AdityaDabgotra/Chess_Ai.git
    cd Chess_Ai
    ```
 2. **Open `index.html` in your browser.**
