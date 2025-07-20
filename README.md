@@ -79,9 +79,7 @@ If you like this project, please ⭐ star the repo and share it with your friend
 
 ## 📷 Demo
 
->
-
-![Demo Placeholder]('image.png')
+![Demo Screenshot](image.png)
 
 ---
 
