@@ -1,5 +1,7 @@
 # ♟️ Chess AI
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://chess-ai-virid.vercel.app/)
+
 ![Chess Board Demo](demo.gif)
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/Chess_Ai?style=social)](https://github.com/yourusername/Chess_Ai/stargazers)
