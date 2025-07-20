@@ -79,9 +79,9 @@ If you like this project, please ⭐ star the repo and share it with your friend
 
 ## 📷 Demo
 
-> _Add a GIF or screenshot of your app in action!_
+>
 
-![Demo Placeholder](https://via.placeholder.com/600x400?text=Chess+AI+Demo)
+![Demo Placeholder]('image.png')
 
 ---
 
